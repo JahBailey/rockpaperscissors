@@ -126,3 +126,6 @@ function playGame() {
             showScore.style.display = "none";
         })
     }
+window.onload = function() {
+    playGame();
+}
