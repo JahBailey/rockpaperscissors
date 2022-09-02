@@ -126,7 +126,3 @@ function playGame() {
             showScore.style.display = "none";
         })
     }
-
-
-
-  
